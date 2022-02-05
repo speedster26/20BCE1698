@@ -306,6 +306,28 @@
     top: 57.28%;
     bottom: 38.26%;
 }
+#otherWork{
+    width: 1350px;
+    height: 250px;
+    left: 9%;
+    top: 4579px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;}
+.workItem{
+    width: 278px;
+    height: 247px;
+    position: inherit;
+    position: relative;
+}
+.work{
+    width: 278px;
+    height: 247px;
+    position: relative;
+}
+
+
 /* EVENT CSS */
 #eventWave{
     position: absolute;
@@ -338,33 +360,65 @@
     font-size: 96px;
     line-height: 119px;
 }
-#eventCard{
-    /* background-color: #1E95F6; */
-    width: 1468px;
-    height: 434px;
-    left: 100px;
-    top: 5455px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
-#eventCard .items{
+
+.items{
     background: linear-gradient(157.48deg, #521755 0.87%, #293576 100%);
     background-blend-mode: multiply;
     mix-blend-mode: multiply;
     height: 433px;
     width: 282px;
     border: 2px solid black;
-    position: relative;
     border-radius: 30px;
 }
-#eventCard .items .eventImg{
-    left: 34px;
-    top: 49px;
+#item1{
+    left: 6.61%;
+    right: 74.74%;
+    top: 77.98%;
+    bottom: 15.83%;
 }
-#eventCard .items .eventBtn{
+#item2{
+    left: 29.3%;
+    right: 51.98%;
+    top: 77.98%;
+    bottom: 15.83%;
+}
+#item3{
+    left: 51.98%;
+    right: 29.3%;
+    top: 77.98%;
+    bottom: 15.81%;
+}
+#item4{
+    left: 74.74%;
+    right: 6.61%;
+    top: 77.98%;
+    bottom: 15.81%;
+}
+#eventImg1{
+    left: 8.86%;
+    right: 76.92%;
+    top: 78.68%;
+    bottom: 18.36%;
+}
+#eventImg2{
+    left: 31.55%;
+    right: 54.23%;
+    top: 78.68%;
+    bottom: 18.36%;
+}
+#eventImg3{
+    left: 54.23%;
+    right: 31.55%;
+    top: 78.68%;
+    bottom: 18.34%;
+}
+#eventImg4{
+    left: 76.92%;
+    right: 8.86%;
+    top: 78.68%;
+    bottom: 18.34%;
+}
+.eventBtn{
     bottom: 66px;
     left: 46px;
     color: #000000;
@@ -375,6 +429,30 @@
     font-size: 24px;
     line-height: 30px;
     font-weight: 400;
+}
+#eventBtn1{
+    left: 9.66%;
+    right: 77.84%;
+    top: 82.53%;
+    bottom: 16.77%;
+}
+#eventBtn2{
+    left: 32.34%;
+    right: 55.09%;
+    top: 82.53%;
+    bottom: 16.77%;
+}
+#eventBtn3{
+    left: 55.09%;
+    right: 32.47%;
+    top: 82.53%;
+    bottom: 16.77%;
+}
+#eventBtn4{
+    left: 77.71%;
+    right: 9.72%;
+    top: 82.54%;
+    bottom: 16.77%;
 }
 
 /* CONTACT */
