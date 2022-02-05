@@ -1,0 +1,537 @@
+/* CSS RESET */
+*{
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    font-family: Righteous;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/* HOME CSS */
+
+#Home{
+    position: relative;
+    width: 1668px;
+    height: 6995px;
+    background: #521755;
+    z-index: 0;
+}
+
+#navbar{
+    left: 48.15%;
+    right: 45.04%;
+    top: 0.87%;
+    bottom: 98.38%;
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.homeLogo{        
+    left: 2.71%;
+    right: 88.89%;
+    top: 0.49%;
+    bottom: 97.66%;
+}
+.item{
+    font-size: 24px;
+    line-height: 30px;
+    text-decoration: none;
+}
+.nav-items1{
+    left: 48.15%;
+    right: 45.04%;
+    top: 0.87%;
+    bottom: 98.38%;
+}
+.nav-items2{
+    left: 56.02%;
+    right: 36.04%;
+    top: 0.87%;
+    bottom: 98.38%;
+}
+.nav-items3{
+    left: 65.01%;
+    right: 27.05%;
+    top: 0.87%;
+    bottom: 98.38%;
+}
+.nav-items4{
+    left: 74.01%;
+    right: 17.13%;
+    top: 0.87%;
+    bottom: 98.38%;
+}
+.nav-items5{
+    left: 83.93%;
+    right: 7.21%;
+    top: 0.87%;
+    bottom: 98.38%;
+}
+.homeText1{
+    left: 10.32%;
+    right: 43.52%;
+    top: 4.05%;
+    bottom: 94.75%;
+    font-size: 96px;
+    line-height: 119px;
+}
+.homeText2{
+    left: 16.4%;
+    right: 49.6%;
+    top: 5.56%;
+    bottom: 93.74%;
+    font-size: 64px;
+    line-height: 79px;
+}
+.homeText3{
+    left: 15.28%;
+    right: 48.54%;
+    top: 6.73%;
+    bottom: 92.21%;
+    font-size: 48px;
+    line-height: 60px;
+}
+
+#homeImg1{
+    left: 68.58%;
+    right: 7.91%;
+    top: 2.92%;
+    bottom: 91.31%;
+}
+#homeImg2{
+    left: 0%;
+    right: 0%;
+    top: 10.34%;
+    bottom: 85.99%;
+    width: 100%;
+}
+#btn1{
+    left: 25.26%;
+    right: 58.53%;
+    top: 7.68%;
+    bottom: 91.54%;
+}
+
+/* ABOUT CSS */
+
+#About{
+    left: 0%;
+    right: 0%;
+    top: 14.01%;
+    bottom: 71.95%;
+    background: linear-gradient(119.66deg, #4A154C 0%, #25306A 73.23%);
+    display: block;
+    display: inline;
+}
+#aboutImg1{
+    left: 8.99%;
+    right: 74.34%;
+    top: 16.1%;
+    bottom: 80.31%;
+}
+#aboutImg2{
+    left: 67.92%;
+    right: 7.67%;
+    top: 21.53%;
+    bottom: 74.11%;
+}
+.aboutText1{
+    left: 67.39%;
+    right: 5.42%;
+    top: 15.21%;
+    bottom: 83.43%;
+    font-size: 64px;
+    line-height: 79px;
+}
+.aboutText2{
+    left: 6.94%;
+    right: 52.18%;
+    top: 21.53%;
+    bottom: 77.18%;
+    font-size: 64px;
+    line-height: 79px;
+}
+.aboutpara1{
+    left: 34.99%;
+    right: 7.08%;
+    top: 17.06%;
+    bottom: 79.69%;
+    height: 228px;
+    font-size: 26px;
+    line-height: 39px; 
+    text-align: right;
+    font-family: Poppins;
+    font-weight: 400;
+}
+.aboutpara2{
+    left: 6.88%;
+    right: 42%;
+    top: 23.33%;
+    bottom: 73.3%;
+    height: 236px;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: normal;
+}
+
+
+/* Work CSS */
+#Work{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 28.05%;
+    bottom: 64.19%;
+    width: 100%;
+    background-color: #FFFFFF;
+}
+#Moon{
+    width: 1668px;
+    height: 3069px;
+    left: 3px;
+    top: 1962px;
+    background-color: #FFFFFF;
+    z-index: -1;
+}
+#workText{
+    left: 3.11%;
+    right: 3.11%;
+    top: 31.61%;
+    bottom: 65.82%;
+    font-size: 36px;
+    line-height: 54px;
+    font-family: Poppins;  
+}
+#workHeading1{
+    left: 25.79%;
+    right: 25.74%;
+    top: 28.62%;
+    bottom: 69.55%;
+    font-size: 96px;
+    line-height: 119px;
+}
+#workHeading2{
+    left: 19.25%;
+    right: 19.27%;
+    top: 36.47%;
+    bottom: 61.79%;
+    font-size: 96px;
+    line-height: 144px;
+    font-family: Poppins;
+    color: #022275; 
+}
+#workHeading3{
+    left: 21.16%;
+    right: 21.1%;
+    top: 54.84%;
+    bottom: 43.53%;
+    font-size: 96px;
+    line-height: 144px;
+    font-family: Poppins;
+    color: #022275; 
+}
+#workHeading4{
+    left: 27.25%;
+    right: 27.18%;
+    top: 62.97%;
+    bottom: 35.74%;
+    font-size: 96px;
+    line-height: 144px;
+    font-family: Poppins;
+    color: #022275; 
+}
+.workLogo{
+    left: 2.71%;
+    right: 88.89%;
+    top: 28.56%;
+    bottom: 69.58%;
+}
+#moonImg1{
+    left: 35.1%;
+    right: 35.71%;
+    top: 39.8%;
+    bottom: 55.13%;
+}
+
+#moonImg2{
+    left: 22.43%;
+    right: 45.22%;
+    top: 43.76%;
+    bottom: 51.17%;
+}
+#moonImg3{
+    left: 48.14%;
+    right: 19.51%;
+    top: 43.76%;
+    bottom: 51.17%;
+}
+#moonImg4{
+    left: 9.28%;
+    right: 61.38%;
+    top: 47.66%;
+    bottom: 47.26%;
+}
+#moonImg5{
+    left: 35.19%;
+    right: 33.4%;
+    top: 47.66%;
+    bottom: 47.26%;
+}
+#moonImg6{
+    left: 60.54%;
+    right: 7.28%;
+    top: 47.66%;
+    bottom: 47.26%;
+}
+#orbiterImg1{
+    left: 7.61%;
+    right: 69.11%;
+    top: 57.28%;
+    bottom: 38.26%;
+}
+#orbiterImg2{
+    left: 38.1%;
+    right: 38.62%;
+    top: 57.28%;
+    bottom: 38.26%;
+}
+#orbiterImg3{
+    left: 68.58%;
+    right: 8.13%;
+    top: 57.28%;
+    bottom: 38.26%;
+}
+/* EVENT CSS */
+#eventWave{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 71.92%;
+    bottom: 23.17%;
+    width: 100%;
+    background-color: #FFFFFF;
+}
+#Event{
+    width: 1668px;
+    height: 1953px;
+    left: 0px;
+    top: 5042px;
+    background-color: #FFFFFF;
+    z-index: -1;
+}
+.eventLogo{
+    left: 2.71%;
+    right: 88.89%;
+    top: 72.98%;
+    bottom: 25.16%;
+}
+#eventHeading1{
+    left: 31.22%;
+    right: 31.22%;
+    top: 73.31%;
+    bottom: 25.38%;
+    font-size: 96px;
+    line-height: 119px;
+}
+#eventCard{
+    /* background-color: #1E95F6; */
+    width: 1468px;
+    height: 434px;
+    left: 100px;
+    top: 5455px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+#eventCard .items{
+    background: linear-gradient(157.48deg, #521755 0.87%, #293576 100%);
+    background-blend-mode: multiply;
+    mix-blend-mode: multiply;
+    height: 433px;
+    width: 282px;
+    border: 2px solid black;
+    position: relative;
+    border-radius: 30px;
+}
+#eventCard .items .eventImg{
+    left: 34px;
+    top: 49px;
+}
+#eventCard .items .eventBtn{
+    bottom: 66px;
+    left: 46px;
+    color: #000000;
+    background-color: #FFFFFF;
+    width: 189px;
+    height: 49px;
+    border-radius: 30px;
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+/* CONTACT */
+#Contact{
+    left: 6.61%;
+    right: 45.57%;
+    top: 87.03%;
+    bottom: 11.45%;
+    font-size: 96px;
+    line-height: 119px;
+    color: #433C78;
+    text-align: left;
+}
+#contactForm{
+    left: 9.06%;
+    top: 89.86%;
+    position: initial;
+    
+}
+#contactForm #name{
+    left: 9.06%;
+    right: 53.57%;
+    top: 89.86%;
+    bottom: 9.52%;
+    width: 565px;
+    height: 43px;
+    text-align: left;
+    font-family: Poppins;
+    font-size: 24px;
+    line-height: 36px;
+}
+#contactForm #email{
+    left: 9.06%;
+    right: 53.57%;
+    top: 90.71%;
+    bottom: 8.68%;
+    width: 565px;
+    height: 43px;
+    text-align: left;
+    font-family: Poppins;
+    font-size: 24px;
+    line-height: 36px;
+}
+#contactForm #msg{
+    left: 9.06%;
+    right: 53.57%;
+    top: 91.55%;
+    bottom: 6.46%;
+    width: 565px;
+    height: 139px;
+    display: flex;
+    text-align: left;
+    align-self: flex-end;
+    font-family: Poppins;
+    font-size: 24px;
+    line-height: 36px;
+}
+#contactForm #btn2{
+    left: 33.99%;
+    right: 53.57%;
+    top: 93.92%;
+    bottom: 5.38%;
+    width: 188px;
+    height: 49px;
+}
+#map{
+    left: 51.46%;
+    right: 7.14%;
+    top: 89.41%;
+    bottom: 4.8%;
+}
+
+/* FOOTER CSS */
+#footer{
+    left: 0%;
+    right: 0%;
+    top: 96.05%;
+    bottom: 0%;
+    background-color: #FFFFFF;
+    background-blend-mode: multiply;
+    mix-blend-mode: multiply;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 100%;
+}
+#footerText1{
+    left: 4.56%;
+    right: 53.9%;
+    top: 97.53%;
+    bottom: 0.7%;
+    font-size: 68px;
+    line-height: 79px;
+}
+#footerText2{
+    left: 65.01%;
+    right: 15.61%;
+    top: 96.98%;
+    bottom: 2.14%;
+    font-size: 64px;
+    line-height: 79px;
+}
+#footerText3{
+    left: 63.1%;
+    right: 13.03%;
+    top: 97.86%;
+    bottom: 1.47%;
+    font-size: 36px;
+    line-height: 42px;
+    font-family: Roboto;
+}
+#footerFb{
+    left: 60.78%;
+    right: 34.46%;
+    top: 98.6%;
+    bottom: 0.44%;
+}
+#footerInsta{
+    left: 66.53%;
+    right: 28.7%;
+    top: 98.6%;
+    bottom: 0.44%;
+}
+#footerDis{
+    left: 72.35%;
+    right: 22.82%;
+    top: 98.6%;
+    bottom: 0.44%; 
+}
+#footerLink{
+    left: 78.17%;
+    right: 17%;
+    top: 98.6%;
+    bottom: 0.44%;
+}
+#footerTwi{
+    left: 83.99%;
+    right: 11.18%;
+    top: 98.6%;
+    bottom: 0.44%;
+}
+#footerImg{
+    width: 84px;
+    height: 85px;
+    left: 91.66%;
+    /* right: 42px; */
+    top: 6787px; 
+}
+
+/* GENERAL CSS */
+.btn{
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    color: #FFFFFF;
+    border-radius: 20px;
+    padding: 0px 32px;
+    font-size: 32px;
+    line-height: 40px;
+    justify-content: center;
+    background: #1E95F6;
+    cursor: pointer;
+}
